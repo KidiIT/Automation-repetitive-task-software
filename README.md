@@ -1,5 +1,5 @@
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8239/badge)](https://www.bestpractices.dev/projects/8239)
-[![DOI](https://zenodo.org/badge/734827100.svg)](https://doi.org/10.5281/zenodo.1992652)
+[![DOI](https://zenodo.org/badge/734827100.svg)](https://doi.org/10.5281/zenodo.19926529)
 
 # Automation repetitive task software
 Tremendously automated repetitive task sofware  with the motive of contributing to what makes your day to day activities much easier and accessible for you at your work place.
