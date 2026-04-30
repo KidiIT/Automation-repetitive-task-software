@@ -1,5 +1,6 @@
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8239/badge)](https://www.bestpractices.dev/projects/8239)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10829824.svg)](https://doi.org/10.5281/zenodo.10829824)
+[![DOI](https://zenodo.org/badge/734827100.svg)](https://doi.org/10.5281/zenodo.1992652
+
 # Automation repetitive task software
 Tremendously automated repetitive task sofware  with the motive of contributing to what makes your day to day activities much easier and accessible for you at your work place.
 Before jumping to what we've today.I want to use this Opportunity to Thank each and every one of you for contributing in one way or the other and congratulation to  us as well because we recently hit our first 1.2K+ views on GITHUB with over 250 clones on my last repo. However,I'll encourage each and every one of us to keep up the good work. on that note, I want to advance us alittle bit on how to build a good automation task that can be used in your different organization. Please take note of each and every step to fully understand how to repetitive automate a software to perform a particular task without the intervention of human being. it can be considered as a machince learning task.also the following steps will help and assit you to state your algorithm when a atomating a particular task below.
